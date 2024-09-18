@@ -1,0 +1,64 @@
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\appsettings.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.exe
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.deps.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.pdb
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.aula20_08_2024.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.build.aula20_08_2024.props
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.aula20_08_2024.props
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.aula20_08_2024.props
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\scopedcss\bundle\aula20_08_2024.styles.css
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_0.44F4A11D.Up2Date
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\refint\aula20_08_2024.dll
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.pdb
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\ref\aula20_08_2024.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\appsettings.Development.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\appsettings.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.exe
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.deps.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.runtimeconfig.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\aula20_08_2024.pdb
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.csproj.AssemblyReference.cache
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.AssemblyInfoInputs.cache
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.AssemblyInfo.cs
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.csproj.CoreCompileInputs.cache
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.MvcApplicationPartsAssemblyInfo.cs
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.MvcApplicationPartsAssemblyInfo.cache
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.aula20_08_2024.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.build.aula20_08_2024.props
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.aula20_08_2024.props
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.aula20_08_2024.props
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\scopedcss\bundle\aula20_08_2024.styles.css
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_0.44F4A11D.Up2Date
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\refint\aula20_08_2024.dll
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.pdb
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\aula20_08_2024.genruntimeconfig.cache
+D:\Ian\Faculdade\4 Periodo\H1\AulasPraticas\aula20_08_2024\aula20_08_2024\obj\Debug\net8.0\ref\aula20_08_2024.dll
